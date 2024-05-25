@@ -1,0 +1,32 @@
+/* Write your code here. */
+.box-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  font-family: 'Bree Serif';
+  color: #0f172a;
+}
+.box-1 {
+  background-color: #fbbf24;
+  font-family: 'Roboto';
+  color: white;
+  height: 30px;
+  width: 30px;
+}
+.box-2 {
+  background-color: #38bdf8;
+  font-family: 'Roboto';
+  color: white;
+  height: 50px;
+  width: 50px;
+}
+.box-3 {
+  background-color: #ec4899;
+  font-family: 'Roboto';
+  color: white;
+  height: 70px;
+  width: 70px;
+}
